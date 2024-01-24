@@ -1,3 +1,6 @@
+![image](https://github.com/kulhara-ankit/music-playlist-reactjs/assets/146313680/629ffeed-952e-4871-b149-e23adba1a45b)
+
+
 The goal of this coding exam is to quickly get you off the ground with **Lists and Keys**
 
 ### Refer to the image below:
